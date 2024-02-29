@@ -1,0 +1,20 @@
+repo_name: 2lambda123/pinduoduo_backdoor
+report_id: 4cc08191aa277976684d8457215a92e3
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:15:23+00:00'
+requested_by: davinci1010
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/pinduoduo_backdoor
+  detection_source: Repo Metadata
